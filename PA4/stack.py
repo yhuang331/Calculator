@@ -1,4 +1,4 @@
-# Name: Yuhua Huang 
+
 # 6 March 2023 
 #this code defines a Stack class that can be used to implement a stack data structure in Python.
 #got this implement from previous lab and class examples
