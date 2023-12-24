@@ -1,4 +1,4 @@
- Calculator Project
+# Calculator Project
 
 This Python calculator project consists of several files designed to provide a basic calculator functionality with a graphical user interface (GUI). The calculator supports arithmetic operations, infix to postfix conversion, and the construction of an expression tree.
 
