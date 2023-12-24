@@ -1,5 +1,4 @@
 # create a GUI calculator using tkinter
-# Name: Yuhua Huang
 # 6 March, 2023 
 # creating a calculator using tkinter and draw and implement the calculator out 
 
