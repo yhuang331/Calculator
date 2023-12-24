@@ -1,5 +1,4 @@
 
-# Name: Yuhua Huang
 # 6 March 2023
 # Creates a BinaryTree object (each parents has at least 2 children) & ExpressionTree
 # which is a pretty much a BinaryTree that orders based on priority of calculations (PEMDAS)
