@@ -1,5 +1,4 @@
 
-# Name: Yuhua Huang
 # 6 March 2023
 # Creates a calculator and infix to postfix function transforming infixes to posfix for the calculations. And caluate the user's input 
 
